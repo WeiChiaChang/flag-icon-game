@@ -3,7 +3,7 @@
 
 > 猜猜是哪一國的國旗吧！
 
-[快來玩玩吧！](https://weichiachang.github.io/flag-icon-game)
+[快來玩玩吧！](https://flag-icon-game.now.sh/)
 
 ![Flag Icon Game 世界國旗遊戲](https://upload.cc/i1/2020/02/12/JVfjb2.png)
 
