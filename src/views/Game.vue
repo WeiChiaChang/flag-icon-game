@@ -2,9 +2,9 @@
   <div>
     <transition mode="out-in">
       <succeeded :test="test" v-if="score.success === numberOfQuestions" />
-      <failed :test="test" v-else-if="score.failed > 0" />
+      <failed :test="test" v-else-if="score.failed > 5" />
     </transition>
-    <template v-if="score.success !== numberOfQuestions && score.failed === 0">
+    <template v-if="score.success !== numberOfQuestions && score.failed <= 5">
       <score class="score-container" />
       <flag
         class="flag-container"

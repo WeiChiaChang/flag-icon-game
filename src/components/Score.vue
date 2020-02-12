@@ -1,15 +1,15 @@
 <template>
   <md-table>
     <md-table-row>
-      <md-table-head md-numeric>已連續答對</md-table-head>
+      <md-table-head md-numeric>答對</md-table-head>
       <!-- <md-table-head md-numeric>正確題數</md-table-head> -->
-      <!-- <md-table-head md-numeric>錯誤題數</md-table-head> -->
+      <md-table-head md-numeric>錯誤</md-table-head>
       <!-- <md-table-head md-numeric>答對率</md-table-head> -->
     </md-table-row>
     <md-table-row>
-      <md-table-head md-numeric>{{score.total}}</md-table-head>
-      <!-- <md-table-head md-numeric>{{score.success}}</md-table-head> -->
-      <!-- <md-table-head md-numeric>{{score.failed}}</md-table-head> -->
+      <!-- <md-table-head md-numeric>{{score.total}}</md-table-head> -->
+      <md-table-head md-numeric>{{score.success}}</md-table-head>
+      <md-table-head md-numeric>{{score.failed}}</md-table-head>
       <!-- <md-table-head md-numeric>{{ratio}}%</md-table-head> -->
     </md-table-row>
   </md-table>
