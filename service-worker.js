@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.499d3dc22c8899700c76f34749c691f2.js"
+  "precache-manifest.d90366f0eb08aa705f4d12fda1285cf9.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "flag-icon-quiz"});
