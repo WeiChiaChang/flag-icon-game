@@ -55,7 +55,7 @@ export default {
       slogan: {
         low: '已經是 .... 極限了嗎？',
         medium: '兄 day 加油好嗎？',
-        high: '台灣還是很不錯的對吧'
+        high: 'HEN 會喔！'
       }
     }
   },

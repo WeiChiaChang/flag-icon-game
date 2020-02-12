@@ -42,7 +42,7 @@ export default {
   },
   data () {
     return {
-      slogan: '哇係正港歹丸郎啦！'
+      slogan: '拿麼厲害！'
     }
   },
   computed: {
