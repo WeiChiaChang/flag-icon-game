@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "75b215deb896652accc4",
+    "revision": "65b95a5744e1adc02b85",
     "url": "css/app.31746127.css"
   },
   {
-    "revision": "75b215deb896652accc4",
-    "url": "js/app.53405965.js"
+    "revision": "65b95a5744e1adc02b85",
+    "url": "js/app.7a9b3a4c.js"
   },
   {
     "revision": "a893d67c05760191e043",
@@ -24,12 +24,12 @@ self.__precacheManifest = [
     "url": "js/game.1255ec8c.js"
   },
   {
-    "revision": "9a57c279405618acaf99",
-    "url": "css/game~practice.e397c0a4.css"
+    "revision": "59e1e33e5983d29a81db",
+    "url": "css/game~practice.9bc90bf2.css"
   },
   {
-    "revision": "9a57c279405618acaf99",
-    "url": "js/game~practice.46a90343.js"
+    "revision": "59e1e33e5983d29a81db",
+    "url": "js/game~practice.64b97d20.js"
   },
   {
     "revision": "715cec4dbb0d8696a6a4",
@@ -44,19 +44,19 @@ self.__precacheManifest = [
     "url": "img/kumamon.de3002f6.png"
   },
   {
-    "revision": "61c76c88e3e624d63c8dbaa19b63eed3",
-    "url": "fonts/twicon.61c76c88.woff"
-  },
-  {
     "revision": "a657075b7392dbaf998c6c13121777bb",
     "url": "fonts/twicon.a657075b.woff2"
+  },
+  {
+    "revision": "61c76c88e3e624d63c8dbaa19b63eed3",
+    "url": "fonts/twicon.61c76c88.woff"
   },
   {
     "revision": "54f8c1975a4dc5b23355a1de4a69dc69",
     "url": "img/the Earth.54f8c197.png"
   },
   {
-    "revision": "d4eeb4356cb489e81e46934543cbbce0",
+    "revision": "3428b1d3a27df3120bab5d959aa3c733",
     "url": "index.html"
   },
   {
