@@ -10,7 +10,8 @@
 
 ## Reference
 
-- 本專案是從 [此份 Repo](https://github.com/Naahuel/flags-game) Fork 改寫而成
+- [Naahuel/flags-game](https://github.com/Naahuel/flags-game)
+- [Flag Icons](https://flagicons.lipis.dev/)
 
 ## Project setup for development
 ```
